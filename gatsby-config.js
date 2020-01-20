@@ -37,7 +37,8 @@ module.exports = {
         // hostingWPCOM: false,
         hostingWPCOM: true,
         // We will be using some advanced custom fields
-        useACF: true,
+        // useACF: true,
+        useACF: false,
         acfOptionPageIds: [],
         verboseOutput: false,
         perPage: 100,
